@@ -1,0 +1,8 @@
+<?php defined('COREPATH') or exit('No direct script access allowed'); ?>
+
+Error - 2011-07-28 15:41:47 --> 2048 - Declaration of Login\Controller_Loginbase::before() should be compatible with that of Fuel\Core\Controller_Template::before() in /opt/lampp/htdocs/fuelphp_module/fuel/app/modules/login/classes/controller/loginbase.php on line 4
+Error - 2011-07-28 15:41:47 --> 2048 - Declaration of Login\Controller_Loginbase::before() should be compatible with that of Fuel\Core\Controller_Template::before() in /opt/lampp/htdocs/fuelphp_module/fuel/app/modules/login/classes/controller/loginbase.php on line 4
+Error - 2011-07-28 15:41:55 --> 2048 - Declaration of Login\Controller_Loginbase::before() should be compatible with that of Fuel\Core\Controller_Template::before() in /opt/lampp/htdocs/fuelphp_module/fuel/app/modules/login/classes/controller/loginbase.php on line 4
+Error - 2011-07-28 15:41:55 --> 2048 - Declaration of Login\Controller_Loginbase::before() should be compatible with that of Fuel\Core\Controller_Template::before() in /opt/lampp/htdocs/fuelphp_module/fuel/app/modules/login/classes/controller/loginbase.php on line 4
+Error - 2011-07-28 15:41:58 --> 2048 - Declaration of Login\Controller_Loginbase::before() should be compatible with that of Fuel\Core\Controller_Template::before() in /opt/lampp/htdocs/fuelphp_module/fuel/app/modules/login/classes/controller/loginbase.php on line 4
+Error - 2011-07-28 15:54:32 --> 2048 - Declaration of Login\Controller_Loginbase::before() should be compatible with that of Fuel\Core\Controller_Template::before() in /opt/lampp/htdocs/fuelphp_module/fuel/app/modules/login/classes/controller/loginbase.php on line 4

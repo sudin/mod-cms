@@ -1,0 +1,22 @@
+    /**
+    1.86FC41,4ED368,53dd46,4CF7C6,86FC41
+    2.CFF09E,A8DBA8
+*/
+
+/* CSS Document */
+body {background:#DBFFDB;}
+p,h1,h2,h3,h4,h5,div{padding:0; margin:0;}
+#wrapper { margin: 10px auto;  height:auto; width:1000px; background:#313230;}
+
+#header{  width:100%; height:120px; color:#FFFFFF; background:#313230 ; }
+#header #menu{background: #434A48;}
+#container{height:auto!important; height:100%; height:auto;  min-height:500px;}
+#leftmenu{ width:150px; float:left; height:auto!important; height:100%; min-height:500px; }
+#leftmenu h2{background: #000703; color: #ffffff; font-size: 16px;}
+#leftmenu ul{ list-style: none;}
+#leftmenu ul li{ margin: 0;padding:0;}
+#leftmenu ul li ul{ margin: 0; margin-left: 2px;padding:0;}
+#container {
+    
+    
+}
