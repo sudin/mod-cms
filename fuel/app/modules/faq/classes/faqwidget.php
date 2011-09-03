@@ -10,7 +10,7 @@
  *
  * @author "samitrimal"
  */
-class Navwidget {
+class Faqwidget {
     //put your code here
     public  function show_header(){
        return \DB::select()->from('cms_pages')

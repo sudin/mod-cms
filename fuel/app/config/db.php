@@ -17,7 +17,7 @@ return array(
 		'type'			=> 'mysql',
 		'connection'	=> array(
 			'hostname'   => 'localhost',
-			'database'   => 'gcms',
+			'database'   => 'amantrannepal',
 			'username'   => 'root',
 			'password'   => '',
 			'persistent' => false,

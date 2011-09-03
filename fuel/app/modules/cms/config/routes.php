@@ -2,6 +2,7 @@
 return array(
 	'cms/admin'  => 'cms/admin/cms/index',  // The default route
 	'cms/admin/(:any)'=>'cms/admin/cms/$1',
+        //'cms/(:segment)'=>'cms/modules/$1',
     '_404_'=>'cms/admin/404'
 	
 	/**
